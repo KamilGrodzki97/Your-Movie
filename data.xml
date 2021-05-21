@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<filmy>
+	<film>
+		<id>1</id>
+		<tytul>Co widać i słychać</tytul>
+		<opis>Kiedy para porzuca Manhattan dla małego miasteczka, młoda kobieta odkrywa, że zarówno jej mąż, jak i nowy dom kryją mroczne sekrety.</opis>
+		<rezyser>Shari Springer Berman / Robert Pulcini</rezyser>
+		<premiera>29 kwietnia 2021 (świat)</premiera>
+		<aktorzy>
+			<imieinazwisko>Alex Neustaedter</imieinazwisko>
+			<imieinazwisko>Amanda Seyfried</imieinazwisko>
+		</aktorzy>
+		<gatunek>Horror</gatunek>
+		<iloscsztuk>3</iloscsztuk>
+		<czas>120</czas>
+		<cena>9.99</cena>
+	</film>
+	<film>
+		<id>2</id>
+		<tytul>Co widać i słychać</tytul>
+		<opis>Kiedy para porzuca Manhattan dla małego miasteczka, młoda kobieta odkrywa, że zarówno jej mąż, jak i nowy dom kryją mroczne sekrety.</opis>
+		<rezyser>Shari Springer Berman / Robert Pulcini</rezyser>
+		<premiera>29 kwietnia 2021 (świat)</premiera>
+		<aktorzy>
+			<imieinazwisko>Alex Neustaedter</imieinazwisko>
+			<imieinazwisko>Amanda Seyfried</imieinazwisko>
+		</aktorzy>
+		<gatunek>Horror</gatunek>
+		<iloscsztuk>3</iloscsztuk>
+		<czas>120</czas>
+		<cena>9.99</cena>
+	</film>
+	<film>
+		<id>3</id>
+		<tytul>Co widać i słychać</tytul>
+		<opis>Kiedy para porzuca Manhattan dla małego miasteczka, młoda kobieta odkrywa, że zarówno jej mąż, jak i nowy dom kryją mroczne sekrety.</opis>
+		<rezyser>Shari Springer Berman / Robert Pulcini</rezyser>
+		<premiera>29 kwietnia 2021 (świat)</premiera>
+		<aktorzy>
+			<imieinazwisko>Alex Neustaedter</imieinazwisko>
+			<imieinazwisko>Amanda Seyfried</imieinazwisko>
+		</aktorzy>
+		<gatunek>Horror</gatunek>
+		<iloscsztuk>3</iloscsztuk>
+		<czas>120</czas>
+		<cena>9.99</cena>
+	</film>
+</filmy>
